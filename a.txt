@@ -1,1 +1,2 @@
-creating a.txt.
+creating a.txt - edit.
+editing file in Branch B1.
